@@ -13,7 +13,7 @@ def saudacoes(first_name, last_name):
 # def saudacoes(first_name="John, last_name="Zorn"):
 
 '''Importante: a execução não interpreta o código acima, por ser uma função. Só o executa pois está sendo
-execitado embaixo'''
+exercitado embaixo'''
 
 print("Comecar")
 
